@@ -2,20 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://rsil.tw/blog/simple-blog-post-8/</loc>
-    <lastmod>2018-09-12T14:51:12+06:00</lastmod>
-  </url><url>
     <loc>https://rsil.tw/blog/</loc>
+    <lastmod>2018-09-13T12:52:36+06:00</lastmod>
+  </url><url>
+    <loc>https://rsil.tw/blog/%E4%BA%8C%E6%9E%97%E5%B1%8B%E9%A0%82/</loc>
+    <lastmod>2018-09-13T12:52:36+06:00</lastmod>
+  </url><url>
+    <loc>https://rsil.tw/</loc>
+    <lastmod>2018-09-13T12:52:36+06:00</lastmod>
+  </url><url>
+    <loc>https://rsil.tw/blog/simple-blog-post-8/</loc>
     <lastmod>2018-09-12T14:51:12+06:00</lastmod>
   </url><url>
     <loc>https://rsil.tw/blog/installation/</loc>
     <lastmod>2018-09-12T14:51:12+06:00</lastmod>
-  </url><url>
-    <loc>https://rsil.tw/</loc>
-    <lastmod>2018-09-12T14:51:12+06:00</lastmod>
-  </url><url>
-    <loc>https://rsil.tw/blog/simple-blog-post-1/</loc>
-    <lastmod>2018-09-12T12:52:36+06:00</lastmod>
   </url><url>
     <loc>https://rsil.tw/blog/simple-blog-post-2/</loc>
     <lastmod>2018-09-12T12:52:36+06:00</lastmod>
