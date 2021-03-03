@@ -7,88 +7,47 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
     <copyright>Copyright &amp;copy; 2020 Designed by [Themefisher](https://themefisher.com) &amp; Developed by [Gethugothemes](https://gethugothemes.com)</copyright>
-    <lastBuildDate>Thu, 13 Sep 2018 12:52:36 +0600</lastBuildDate><atom:link href="https://rsil.tw/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 10 Apr 2020 12:52:36 +0600</lastBuildDate><atom:link href="https://rsil.tw/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>苗栗屋頂型362KW</title>
+      <link>https://rsil.tw/blog/%E8%8B%97%E6%A0%97%E5%B1%8B%E9%A0%821/</link>
+      <pubDate>Fri, 10 Apr 2020 12:52:36 +0600</pubDate>
+      
+      <guid>https://rsil.tw/blog/%E8%8B%97%E6%A0%97%E5%B1%8B%E9%A0%821/</guid>
+      <description>本案標的為複合式建物，有加油站/便利商店以及汽車旅館。
+自從架設太陽能後僅十個月為該業主增加逾新台幣十萬的租金營收。
+加上太陽能模組在夏日給鐵皮屋頂額外帶來的降溫效果，
+間接減少傍大的電費支出。
+ 逆變器廠牌：盈正逆變器
+ 發電量圖表</description>
+    </item>
+    
+    <item>
+      <title>苗栗屋頂型18.9KW</title>
+      <link>https://rsil.tw/blog/%E8%8B%97%E6%A0%97%E5%B1%8B%E9%A0%822/</link>
+      <pubDate>Sun, 10 Mar 2019 12:52:36 +0600</pubDate>
+      
+      <guid>https://rsil.tw/blog/%E8%8B%97%E6%A0%97%E5%B1%8B%E9%A0%822/</guid>
+      <description>本案標的為民宅。
+自從架設太陽能後不到一年已經為該業主帶來每月逾新台幣仟元的租金營收。
+加上太陽能模組在夏日給鐵皮屋頂額外帶來的降溫效果，
+間接減少傍大的電費支出。
+ 逆變器廠牌：新望逆變器
+ 發電量圖表</description>
+    </item>
+    
     <item>
       <title>二林屋頂型99.9KW</title>
       <link>https://rsil.tw/blog/%E4%BA%8C%E6%9E%97%E5%B1%8B%E9%A0%82/</link>
       <pubDate>Thu, 13 Sep 2018 12:52:36 +0600</pubDate>
       
       <guid>https://rsil.tw/blog/%E4%BA%8C%E6%9E%97%E5%B1%8B%E9%A0%82/</guid>
-      <description>本案標的為專業鋁加工廠。老闆對於太陽能有深刻的認識。 自從架設太陽能後已為該廠增加逾新台幣十萬的租金營收。 加上太陽能模組在夏日給鐵皮屋頂額外帶來的降溫效果， 間接減少傍大的電費支出。
+      <description>本案標的為專業鋁加工廠。老闆對於太陽能有深刻的認識。
+自從架設太陽能後至2021年三月已為該廠增加逾新台幣十萬的租金營收。
+加上太陽能模組在夏日給鐵皮屋頂額外帶來的降溫效果，
+間接減少傍大的電費支出。
  逆變器廠牌：台達電逆變器
- 發電量圖表 </description>
-    </item>
-    
-    <item>
-      <title>Are You Doing the Right Way</title>
-      <link>https://rsil.tw/blog/simple-blog-post-8/</link>
-      <pubDate>Wed, 12 Sep 2018 14:51:12 +0600</pubDate>
-      
-      <guid>https://rsil.tw/blog/simple-blog-post-8/</guid>
-      <description>Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae.</description>
-    </item>
-    
-    <item>
-      <title>How To Setup Meghna Hugo</title>
-      <link>https://rsil.tw/blog/installation/</link>
-      <pubDate>Wed, 12 Sep 2018 14:51:12 +0600</pubDate>
-      
-      <guid>https://rsil.tw/blog/installation/</guid>
-      <description>Install this template by following those simple steps: STEP-1 : Hugo installation Check this link below for install hugo on your computer.</description>
-    </item>
-    
-    <item>
-      <title>Simple Blog Post</title>
-      <link>https://rsil.tw/blog/simple-blog-post-2/</link>
-      <pubDate>Wed, 12 Sep 2018 12:52:36 +0600</pubDate>
-      
-      <guid>https://rsil.tw/blog/simple-blog-post-2/</guid>
-      <description>Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae.</description>
-    </item>
-    
-    <item>
-      <title>Simple Blog Post</title>
-      <link>https://rsil.tw/blog/simple-blog-post-3/</link>
-      <pubDate>Wed, 12 Sep 2018 12:52:36 +0600</pubDate>
-      
-      <guid>https://rsil.tw/blog/simple-blog-post-3/</guid>
-      <description>Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae.</description>
-    </item>
-    
-    <item>
-      <title>Simple Blog Post</title>
-      <link>https://rsil.tw/blog/simple-blog-post-4/</link>
-      <pubDate>Wed, 12 Sep 2018 12:52:36 +0600</pubDate>
-      
-      <guid>https://rsil.tw/blog/simple-blog-post-4/</guid>
-      <description>Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae.</description>
-    </item>
-    
-    <item>
-      <title>Simple Blog Post</title>
-      <link>https://rsil.tw/blog/simple-blog-post-5/</link>
-      <pubDate>Wed, 12 Sep 2018 12:52:36 +0600</pubDate>
-      
-      <guid>https://rsil.tw/blog/simple-blog-post-5/</guid>
-      <description>Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae.</description>
-    </item>
-    
-    <item>
-      <title>Simple Blog Post</title>
-      <link>https://rsil.tw/blog/simple-blog-post-6/</link>
-      <pubDate>Wed, 12 Sep 2018 12:52:36 +0600</pubDate>
-      
-      <guid>https://rsil.tw/blog/simple-blog-post-6/</guid>
-      <description>Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae.</description>
-    </item>
-    
-    <item>
-      <title>Simple Blog Post</title>
-      <link>https://rsil.tw/blog/simple-blog-post-7/</link>
-      <pubDate>Wed, 12 Sep 2018 12:52:36 +0600</pubDate>
-      
-      <guid>https://rsil.tw/blog/simple-blog-post-7/</guid>
-      <description>Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae.</description>
+ 發電量圖表</description>
     </item>
     
   </channel>
