@@ -57,24 +57,6 @@
     </item>
     
     <item>
-      <title>John Doe</title>
-      <link>https://rsil.tw/author/john-doe/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://rsil.tw/author/john-doe/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin sit amet vulputate augue. Duis auctor lacus id vehicula gravida.</description>
-    </item>
-    
-    <item>
-      <title>Mark Dinn</title>
-      <link>https://rsil.tw/author/mark-dinn/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://rsil.tw/author/mark-dinn/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin sit amet vulputate augue. Duis auctor lacus id vehicula gravida.</description>
-    </item>
-    
-    <item>
       <title>全球最大海上太陽能 彰濱崙尾東電廠啟用</title>
       <link>https://rsil.tw/blog/20210307news/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
