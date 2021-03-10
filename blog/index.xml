@@ -7,11 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
     <copyright>Copyright &amp;copy; 2020 Designed by [Themefisher](https://themefisher.com) &amp; Developed by [Gethugothemes](https://gethugothemes.com)</copyright>
-    <lastBuildDate>Wed, 03 Mar 2021 12:52:36 +0600</lastBuildDate><atom:link href="https://rsil.tw/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 07 Mar 2021 04:10:36 +0800</lastBuildDate><atom:link href="https://rsil.tw/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>全球最大海上太陽能 彰濱崙尾東電廠啟用</title>
+      <link>https://rsil.tw/blog/20210307news/</link>
+      <pubDate>Sun, 07 Mar 2021 04:10:36 +0800</pubDate>
+      
+      <guid>https://rsil.tw/blog/20210307news/</guid>
+      <description>全球最大海上太陽能 彰濱崙尾東電廠啟用 資料來源 中國時報</description>
+    </item>
+    
     <item>
       <title>2021年太陽能躉購費率</title>
       <link>https://rsil.tw/blog/2021%E5%A4%AA%E9%99%BD%E8%83%BD%E8%B2%BB%E7%8E%87/</link>
-      <pubDate>Wed, 03 Mar 2021 12:52:36 +0600</pubDate>
+      <pubDate>Wed, 03 Mar 2021 12:52:36 +0800</pubDate>
       
       <guid>https://rsil.tw/blog/2021%E5%A4%AA%E9%99%BD%E8%83%BD%E8%B2%BB%E7%8E%87/</guid>
       <description>民國110年，西元2021年太陽能費率
@@ -21,9 +30,27 @@
     </item>
     
     <item>
+      <title>看好台灣太陽能商機 JRE收購鴻晶新屏東太陽能發電廠</title>
+      <link>https://rsil.tw/blog/20210302news/</link>
+      <pubDate>Tue, 02 Mar 2021 12:52:36 +0800</pubDate>
+      
+      <guid>https://rsil.tw/blog/20210302news/</guid>
+      <description>看好台灣太陽能商機 JRE收購鴻晶新屏東太陽能發電廠 資料來源 經濟日報 / 聯合新聞網</description>
+    </item>
+    
+    <item>
+      <title>市占70％ 太陽能模組三強成形</title>
+      <link>https://rsil.tw/blog/20210304news/</link>
+      <pubDate>Mon, 01 Mar 2021 12:52:36 +0800</pubDate>
+      
+      <guid>https://rsil.tw/blog/20210304news/</guid>
+      <description>市占70％ 太陽能模組三強成形 資料來源 工商時報</description>
+    </item>
+    
+    <item>
       <title>苗栗屋頂型 362.7 kWp</title>
       <link>https://rsil.tw/blog/%E8%8B%97%E6%A0%97%E5%B1%8B%E9%A0%821/</link>
-      <pubDate>Fri, 10 Apr 2020 12:52:36 +0600</pubDate>
+      <pubDate>Fri, 10 Apr 2020 12:52:36 +0800</pubDate>
       
       <guid>https://rsil.tw/blog/%E8%8B%97%E6%A0%97%E5%B1%8B%E9%A0%821/</guid>
       <description>容　量：362.7 kWp 面　積：2650 平方公尺 地　點：苗栗後龍複合式建物 資　金：投資方出資 類　型：屋頂型 / 棚架式  逆變器廠牌：盈正逆變器    </description>
@@ -32,7 +59,7 @@
     <item>
       <title>彰化屋頂型 31.185 kWp</title>
       <link>https://rsil.tw/blog/%E5%BD%B0%E5%8C%96%E5%B1%8B%E9%A0%822/</link>
-      <pubDate>Tue, 10 Mar 2020 12:52:36 +0600</pubDate>
+      <pubDate>Tue, 10 Mar 2020 12:52:36 +0800</pubDate>
       
       <guid>https://rsil.tw/blog/%E5%BD%B0%E5%8C%96%E5%B1%8B%E9%A0%822/</guid>
       <description>容　量：31.185 kWp 面　積：215 平方公尺 地　點：彰化芬園民宅 資　金：投資方出資 類　型：屋頂型 / 棚架式  逆變器廠牌：新望電逆變器  </description>
@@ -41,7 +68,7 @@
     <item>
       <title>苗栗屋頂型 18.9 kWp</title>
       <link>https://rsil.tw/blog/%E8%8B%97%E6%A0%97%E5%B1%8B%E9%A0%822/</link>
-      <pubDate>Sun, 10 Mar 2019 12:52:36 +0600</pubDate>
+      <pubDate>Sun, 10 Mar 2019 12:52:36 +0800</pubDate>
       
       <guid>https://rsil.tw/blog/%E8%8B%97%E6%A0%97%E5%B1%8B%E9%A0%822/</guid>
       <description>容　量：18.9 kWp 面　積：140 平方公尺 地　點：苗栗卓蘭民宅 資　金：投資方出資 類　型：屋頂型 / 棚架式  逆變器廠牌：新望逆變器  </description>
@@ -50,37 +77,10 @@
     <item>
       <title>二林屋頂型 99.9 kWp</title>
       <link>https://rsil.tw/blog/%E4%BA%8C%E6%9E%97%E5%B1%8B%E9%A0%82/</link>
-      <pubDate>Thu, 13 Sep 2018 12:52:36 +0600</pubDate>
+      <pubDate>Thu, 13 Sep 2018 12:52:36 +0800</pubDate>
       
       <guid>https://rsil.tw/blog/%E4%BA%8C%E6%9E%97%E5%B1%8B%E9%A0%82/</guid>
       <description>容　量：99.9 kWp 面　積：830 平方公尺 地　點：彰化二林鋁加工廠 資　金：投資方出資 類　型：屋頂型 / 平舖式  逆變器廠牌：台達電逆變器    </description>
-    </item>
-    
-    <item>
-      <title>全球最大海上太陽能 彰濱崙尾東電廠啟用</title>
-      <link>https://rsil.tw/blog/20210307news/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://rsil.tw/blog/20210307news/</guid>
-      <description>全球最大海上太陽能 彰濱崙尾東電廠啟用 資料來源 中國時報</description>
-    </item>
-    
-    <item>
-      <title>市占70％ 太陽能模組三強成形</title>
-      <link>https://rsil.tw/blog/20210304news/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://rsil.tw/blog/20210304news/</guid>
-      <description>市占70％ 太陽能模組三強成形 資料來源 工商時報</description>
-    </item>
-    
-    <item>
-      <title>看好台灣太陽能商機 JRE收購鴻晶新屏東太陽能發電廠</title>
-      <link>https://rsil.tw/blog/20210302news/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://rsil.tw/blog/20210302news/</guid>
-      <description>看好台灣太陽能商機 JRE收購鴻晶新屏東太陽能發電廠 資料來源 經濟日報 / 聯合新聞網</description>
     </item>
     
   </channel>
